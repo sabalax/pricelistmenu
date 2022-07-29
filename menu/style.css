@@ -5,6 +5,15 @@
   color: rgb(92, 92, 92);
 }
 
+.welcome {
+  font-family: georgia;
+  font-size: 64px;
+  display: block;
+  font-weight: normal;
+  margin: 20px 0;
+  text-align: center;
+}
+
 .menu-section {
   margin-bottom: 80px;
 }
